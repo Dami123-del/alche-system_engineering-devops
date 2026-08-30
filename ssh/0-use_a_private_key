@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Connect to the remote server as ubuntu using the school SSH private key
+ssh -i ~/.ssh/school ubuntu@your-server-address
